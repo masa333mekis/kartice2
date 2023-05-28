@@ -1,0 +1,26 @@
+.main-topic{
+    /* margin-top: -8rem; */
+}
+.decks{
+    /* margin-top: 8rem;
+    width: 19rem; */
+
+}
+
+.btns{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+.add-deck{
+    margin-right: 10px;
+}
+.group-decks-list
+{
+    max-height: 400px;
+    overflow-y: auto; 
+    width: 400px;
+}
+.delete-btn{
+    margin-right: 15px;
+}
